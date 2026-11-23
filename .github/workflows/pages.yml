@@ -47,5 +47,5 @@ jobs:
           path: site
       - id: deploy
         uses: actions/deploy-pages@v4
-```[cite: 3, 4]
+
 
